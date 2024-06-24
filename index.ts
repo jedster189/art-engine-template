@@ -1,5 +1,6 @@
 import { WordPhraseGenerator } from "./custom/generators/word-phrase-generator";
 import { WordsListInput } from "./custom/inputs/words-list-input";
+import { PhraseRenderer } from "./custom/renderers/phrase-renderer";
 
 const {
   ArtEngine,
@@ -21,10 +22,12 @@ const ae = new ArtEngine({
   },
 
   generators: [
-    new WordPhraseGenerator("words", 2, 4, 12),
+    new WordPhraseGenerator("words", 4, 6, 5),
   ],
 
-  renderers: [],
+  renderers: [
+    new PhraseRenderer(),
+  ],
 
   exporters: [],
 });

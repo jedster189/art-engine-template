@@ -1,1 +1,70 @@
-{}
+{
+  "0": [
+    {
+      "kind": "PhraseRenderer@v1",
+      "data": {
+        "path": "/Users/jegbert/Desktop/web3/art-engine-template/cache/_temp/0.json",
+        "content": {
+          "phrase": [
+            "travel",
+            "example",
+            "language",
+            "social",
+            "injury"
+          ]
+        }
+      }
+    }
+  ],
+  "1": [
+    {
+      "kind": "PhraseRenderer@v1",
+      "data": {
+        "path": "/Users/jegbert/Desktop/web3/art-engine-template/cache/_temp/1.json",
+        "content": {
+          "phrase": [
+            "vacuum",
+            "wonder",
+            "profit",
+            "verify",
+            "banner"
+          ]
+        }
+      }
+    }
+  ],
+  "2": [
+    {
+      "kind": "PhraseRenderer@v1",
+      "data": {
+        "path": "/Users/jegbert/Desktop/web3/art-engine-template/cache/_temp/2.json",
+        "content": {
+          "phrase": [
+            "luggage",
+            "connect",
+            "inhale",
+            "amateur",
+            "strong"
+          ]
+        }
+      }
+    }
+  ],
+  "3": [
+    {
+      "kind": "PhraseRenderer@v1",
+      "data": {
+        "path": "/Users/jegbert/Desktop/web3/art-engine-template/cache/_temp/3.json",
+        "content": {
+          "phrase": [
+            "toddler",
+            "original",
+            "bright",
+            "degree",
+            "forest"
+          ]
+        }
+      }
+    }
+  ]
+}

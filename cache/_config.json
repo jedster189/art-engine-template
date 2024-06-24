@@ -10,11 +10,13 @@
   "generators": [
     {
       "dataKey": "words",
-      "amountOfPhrases": 2,
-      "minWordLength": 0,
-      "wordsInPhrase": 12
+      "amountOfPhrases": 4,
+      "minWordLength": 6,
+      "wordsInPhrase": 5
     }
   ],
-  "renderers": [],
+  "renderers": [
+    {}
+  ],
   "exporters": []
 }

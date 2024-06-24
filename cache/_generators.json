@@ -4,18 +4,11 @@
       "kind": "WordPhraseGenerator@v1",
       "data": {
         "phrase": [
-          "drum",
-          "spoon",
-          "champion",
-          "year",
-          "unique",
-          "marine",
-          "hungry",
-          "ethics",
-          "slot",
-          "account",
-          "rough",
-          "page"
+          "travel",
+          "example",
+          "language",
+          "social",
+          "injury"
         ]
       }
     }
@@ -25,18 +18,39 @@
       "kind": "WordPhraseGenerator@v1",
       "data": {
         "phrase": [
-          "fish",
-          "merry",
-          "blind",
-          "salt",
-          "purchase",
-          "coil",
-          "demise",
-          "emerge",
-          "usage",
+          "vacuum",
+          "wonder",
+          "profit",
+          "verify",
+          "banner"
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "kind": "WordPhraseGenerator@v1",
+      "data": {
+        "phrase": [
+          "luggage",
+          "connect",
+          "inhale",
+          "amateur",
+          "strong"
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "kind": "WordPhraseGenerator@v1",
+      "data": {
+        "phrase": [
           "toddler",
-          "inquiry",
-          "vicious"
+          "original",
+          "bright",
+          "degree",
+          "forest"
         ]
       }
     }
