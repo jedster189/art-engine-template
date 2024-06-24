@@ -7,7 +7,14 @@
       "wordListPath": "/Users/jegbert/Desktop/web3/art-engine-template/dist/../data/words.json"
     }
   },
-  "generators": [],
+  "generators": [
+    {
+      "dataKey": "words",
+      "amountOfPhrases": 2,
+      "minWordLength": 0,
+      "wordsInPhrase": 12
+    }
+  ],
   "renderers": [],
   "exporters": []
 }

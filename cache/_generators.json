@@ -1,1 +1,44 @@
-{}
+{
+  "0": [
+    {
+      "kind": "WordPhraseGenerator@v1",
+      "data": {
+        "phrase": [
+          "drum",
+          "spoon",
+          "champion",
+          "year",
+          "unique",
+          "marine",
+          "hungry",
+          "ethics",
+          "slot",
+          "account",
+          "rough",
+          "page"
+        ]
+      }
+    }
+  ],
+  "1": [
+    {
+      "kind": "WordPhraseGenerator@v1",
+      "data": {
+        "phrase": [
+          "fish",
+          "merry",
+          "blind",
+          "salt",
+          "purchase",
+          "coil",
+          "demise",
+          "emerge",
+          "usage",
+          "toddler",
+          "inquiry",
+          "vicious"
+        ]
+      }
+    }
+  ]
+}

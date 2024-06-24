@@ -1,3 +1,4 @@
+import { WordPhraseGenerator } from "./custom/generators/word-phrase-generator";
 import { WordsListInput } from "./custom/inputs/words-list-input";
 
 const {
@@ -19,7 +20,9 @@ const ae = new ArtEngine({
     words: new WordsListInput(`${BASE_PATH}/../data/words.json`),
   },
 
-  generators: [],
+  generators: [
+    new WordPhraseGenerator("words", 2, 4, 12),
+  ],
 
   renderers: [],
 
