@@ -13,51 +13,13 @@ const ae = new ArtEngine({
   outputPath: `${BASE_PATH}/../output`,
   useCache: false,
 
-  inputs: {
-    apes: new inputs.ImageLayersInput({
-      assetsBasePath: `${BASE_PATH}/../data`,
-    }),
-  },
+  inputs: {},
 
-  generators: [
-    new generators.ImageLayersAttributesGenerator({
-      dataSet: "apes",
-      startIndex: 1,
-      endIndex: 10,
-    }),
-  ],
+  generators: [],
 
-  renderers: [
-    new renderers.ItemAttributesRenderer({
-      name: (itemUid: string) => `Ape ${itemUid}`,
-      description: (attributes: any) => {
-        return `This is a token with "${attributes["Background"][0]}" as Background`;
-      },
-    }),
-    new renderers.ImageLayersRenderer({
-      width: 2048,
-      height: 2048,
-    }),
-  ],
+  renderers: [],
 
-  exporters: [
-    new exporters.ImagesExporter(),
-    new exporters.Erc721MetadataExporter({
-      imageUriPrefix: "ipfs://__CID__/",
-    }),
-    new exporters.SolMetadataExporter({
-      imageUriPrefix: "ipfs://__CID__/",
-      symbol: "APES",
-      sellerFeeBasisPoints: 200,
-      collectionName: "The Apes",
-      creators: [
-        {
-          address: "__SOLANA_WALLET_ADDRESS_HERE__",
-          share: 100,
-        },
-      ],
-    }),
-  ],
+  exporters: [],
 });
 
 (async () => {
