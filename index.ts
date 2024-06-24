@@ -1,3 +1,5 @@
+import { WordsListInput } from "./custom/inputs/words-list-input";
+
 const {
   ArtEngine,
   inputs,
@@ -13,7 +15,9 @@ const ae = new ArtEngine({
   outputPath: `${BASE_PATH}/../output`,
   useCache: false,
 
-  inputs: {},
+  inputs: {
+    words: new WordsListInput(`${BASE_PATH}/../data/words.json`),
+  },
 
   generators: [],
 

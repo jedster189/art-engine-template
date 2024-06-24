@@ -1,0 +1,13 @@
+{
+  "cachePath": "/Users/jegbert/Desktop/web3/art-engine-template/dist/../cache",
+  "outputPath": "/Users/jegbert/Desktop/web3/art-engine-template/dist/../output",
+  "useCache": false,
+  "inputs": {
+    "words": {
+      "wordListPath": "/Users/jegbert/Desktop/web3/art-engine-template/dist/../data/words.json"
+    }
+  },
+  "generators": [],
+  "renderers": [],
+  "exporters": []
+}

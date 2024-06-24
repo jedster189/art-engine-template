@@ -1,0 +1,18 @@
+{
+  "inputs": {
+    "curr": "6d802a9cfb87a85c8269f99b958c138e365d7332191f9326423b002029b74c6c",
+    "prev": "6d802a9cfb87a85c8269f99b958c138e365d7332191f9326423b002029b74c6c"
+  },
+  "generators": {
+    "curr": "b8a4120408a76e335316de9a0c139291da653eaffab9cb1406bccf615a0ff495",
+    "prev": "b8a4120408a76e335316de9a0c139291da653eaffab9cb1406bccf615a0ff495"
+  },
+  "renderers": {
+    "curr": "b8a4120408a76e335316de9a0c139291da653eaffab9cb1406bccf615a0ff495",
+    "prev": "b8a4120408a76e335316de9a0c139291da653eaffab9cb1406bccf615a0ff495"
+  },
+  "renderers_temp": {
+    "curr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "prev": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}
