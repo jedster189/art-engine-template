@@ -1,3 +1,4 @@
+import { SeedPhraseExporter } from "./custom/exporters/seed-phrase-exporter";
 import { WordPhraseGenerator } from "./custom/generators/word-phrase-generator";
 import { WordsListInput } from "./custom/inputs/words-list-input";
 import { PhraseRenderer } from "./custom/renderers/phrase-renderer";
@@ -29,7 +30,7 @@ const ae = new ArtEngine({
     new PhraseRenderer(),
   ],
 
-  exporters: [],
+  exporters: [new SeedPhraseExporter()],
 });
 
 (async () => {

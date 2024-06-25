@@ -4,11 +4,11 @@
       "kind": "WordPhraseGenerator@v1",
       "data": {
         "phrase": [
-          "travel",
-          "example",
-          "language",
-          "social",
-          "injury"
+          "school",
+          "vacant",
+          "mutual",
+          "ginger",
+          "absent"
         ]
       }
     }
@@ -18,11 +18,11 @@
       "kind": "WordPhraseGenerator@v1",
       "data": {
         "phrase": [
-          "vacuum",
-          "wonder",
-          "profit",
+          "violin",
+          "exhaust",
+          "evolve",
           "verify",
-          "banner"
+          "lounge"
         ]
       }
     }
@@ -32,11 +32,11 @@
       "kind": "WordPhraseGenerator@v1",
       "data": {
         "phrase": [
-          "luggage",
-          "connect",
-          "inhale",
-          "amateur",
-          "strong"
+          "monkey",
+          "crumble",
+          "robust",
+          "electric",
+          "ticket"
         ]
       }
     }
@@ -46,11 +46,11 @@
       "kind": "WordPhraseGenerator@v1",
       "data": {
         "phrase": [
-          "toddler",
-          "original",
-          "bright",
-          "degree",
-          "forest"
+          "garden",
+          "fashion",
+          "volume",
+          "oxygen",
+          "blossom"
         ]
       }
     }
